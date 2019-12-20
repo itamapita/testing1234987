@@ -17,6 +17,9 @@
                     },
                     "Rating": {
                         "N": "3.5"
+                    },
+                    "Preferences": {
+                        "S": "F"
                     }
             }
         }
@@ -38,6 +41,9 @@
                     },
                     "Rating": {
                         "N": "1.7"
+                    },
+                    "Preferences": {
+                        "S": "C"
                     }
             }
         }
@@ -59,6 +65,9 @@
                     },
                     "Rating": {
                         "N": "5"
+                    },
+                    "Preferences": {
+                        "S": "C"
                     }
             }
         }
