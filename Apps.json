@@ -1,0 +1,21 @@
+{
+    "Apps": [
+        {
+            "PutRequest": {
+                "Item": {
+                    "AppID": {"S":"37294908585ef77317ddb3fe2e81267d"},
+                    "Name": {"S":"Red Maps"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "AppID": {"S":"45a3b689f31606c7f043496fc5ed3e31"},
+                    "Name": {"S":"BabySitterz"}            
+                }
+            }
+        }
+    ]
+}
+

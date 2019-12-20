@@ -1,0 +1,41 @@
+Apps:
+    App:
+        Name - Babysitterz
+        ID - 123
+    App:
+        Name - GreenMaps
+        ID - 435
+
+Ads:
+    ID - AppID#UserID
+    Name - Ashley
+    ProductType - L
+    Price - x
+    Image - URL
+
+Ratings:
+    AdID - Appname#AdID
+    RatingDateTime - DateTime
+    Rating - 2.5
+    PostedBy - ClientUserID
+
+Likes:
+    ID - AppName#AdID
+    LikedBy - ClientUserID
+
+Products:
+    ID - Appname#AdID
+    Product - Address/PhoneNumber
+    
+Purchases:
+    ID - AppName#AUserID#CUserID
+    PurchaseDateTime - DateTime
+    Amount - x
+    Key - 214kjlf1k23j4
+
+Users:
+    Type - C/A/M
+    Email - example@ex.com
+    Password - ******
+    ID - (WillUseBizID)BSDF123UM
+    App - AppID

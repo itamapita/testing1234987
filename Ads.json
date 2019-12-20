@@ -1,0 +1,149 @@
+{
+    "Ads": [
+        {
+            "PutRequest": {
+                "Item": {
+                    "Id": {
+                        "S": "Red Maps#R101"
+                    },
+                    "Name": {
+                        "S": "Ashley"
+                    },
+                    "ProductType": {
+                        "S": "L"
+                    },
+                    "Price": {
+                        "N": "5"
+                    },
+                    "Image": {
+                        "S": "https://previews.123rf.com/images/subbotina/subbotina1510/subbotina151000020/46048941-beauty-woman-face-beautiful-spa-girl-with-perfect-clean-skin.jpg"
+                    },
+                    "Active": {
+                        "BOOL": "true"
+                    }
+            }
+        }
+    },
+        {
+            "PutRequest": {
+                "Item": {
+                    "Id": {
+                        "S": "Babysitterz#B101"
+                    },
+                    "Name": {
+                        "S": "Marry"
+                    },
+                    "ProductType": {
+                        "S": "P"
+                    },
+                    "Price": {
+                        "N": "2"
+                    },
+                    "Image": {
+                        "S": "https://images.unsplash.com/photo-1509967419530-da38b4704bc6?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80"
+                    },
+                    "Active": {
+                        "BOOL": "true"
+                    }
+            }
+        }
+    },
+        {
+            "PutRequest": {
+                "Item": {
+                    "Id": {
+                        "S": "Red Maps#R102"
+                    },
+                    "Name": {
+                        "S": "Danny"
+                    },
+                    "ProductType": {
+                        "S": "L"
+                    },
+                    "Price": {
+                        "N": "5"
+                    },
+                    "Image": {
+                        "S": "https://i.pinimg.com/originals/5e/81/37/5e81371c890a88377dd2195a99d3deba.jpg"
+                    },
+                    "Active": {
+                        "BOOL": "false"
+                    }
+            }
+        }
+    },
+        {
+            "PutRequest": {
+                "Item": {
+                    "Id": {
+                        "S": "Red Maps#R103"
+                    },
+                    "Name": {
+                        "S": "Marry"
+                    },
+                    "ProductType": {
+                        "S": "L"
+                    },
+                    "Price": {
+                        "N": "5"
+                    },
+                    "Image": {
+                        "S": "https://image.freepik.com/free-photo/young-beautiful-woman-face-portrait-with-healthy-skin_93675-21832.jpg"
+                    },
+                    "Active": {
+                        "BOOL": "true"
+                    }
+            }
+        }
+    },
+        {
+            "PutRequest": {
+                "Item": {
+                    "Id": {
+                        "S": "Babysitterz#B102"
+                    },
+                    "Name": {
+                        "S": "Neta"
+                    },
+                    "ProductType": {
+                        "S": "P"
+                    },
+                    "Price": {
+                        "N": "2"
+                    },
+                    "Image": {
+                        "S": "https://st2.depositphotos.com/8768690/11687/i/950/depositphotos_116878932-stock-photo-beauty-woman-face-portrait-beautiful.jpg"
+                    },
+                    "Active": {
+                        "BOOL": "true"
+                    }
+            }
+        }
+    },
+        {
+            "PutRequest": {
+                "Item": {
+                    "Id": {
+                        "S": "Babysitterz#B103"
+                    },
+                    "Name": {
+                        "S": "Emma"
+                    },
+                    "ProductType": {
+                        "S": "P"
+                    },
+                    "Price": {
+                        "N": "2"
+                    },
+                    "Image": {
+                        "S": "https://i.pinimg.com/originals/8f/26/1c/8f261cfb0226a3242f40bff1c08dc401.jpg"
+                    },
+                    "Active": {
+                        "BOOL": "false"
+                    }
+            }
+        }
+    }
+    ]
+}
+

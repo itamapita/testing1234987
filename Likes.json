@@ -1,0 +1,52 @@
+{
+    "Rating": [
+        {
+            "PutRequest": {
+                "Item": {
+                    "Id": {
+                        "S": "Red Maps#R101"
+                    },
+                    "LikedBy": {
+                        "S": "C123"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "Id": {
+                        "S": "Babysitterz#B101"
+                    },
+                    "LikedBy": {
+                        "S": "C432"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "Id": {
+                        "S": "Babysitterz#B101"
+                    },
+                    "LikedBy": {
+                        "S": "C643"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "Id": {
+                        "S": "Red Maps#R101"
+                    },
+                    "LikedBy": {
+                        "S": "C853"
+                    }
+                }
+            }
+        }
+    ]
+}

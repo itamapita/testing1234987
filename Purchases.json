@@ -1,0 +1,76 @@
+{
+    "Rating": [
+        {
+            "PutRequest": {
+                "Item": {
+                    "Id": {
+                        "S": "Red Maps#R102#C123"
+                    },
+                    "PurchaseDateTime": {
+                        "S": "2015-09-15T19:58:22.947Z"
+                    },
+                    "Amount": {
+                        "N": "5"
+                    },
+                    "Key": {
+                        "S": "12lk3j2k3j5h2"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "Id": {
+                        "S": "Babysitterz#B101#C432"
+                    },
+                    "PurchaseDateTime": {
+                        "S": "2015-09-15T19:58:22.947Z"
+                    },
+                    "Amount": {
+                        "N": "2"
+                    },
+                    "Key": {
+                        "S": "lkj7l6kj5f3kj"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "Id": {
+                        "S": "Babysitterz#B101#C643"
+                    },
+                    "PurchaseDateTime": {
+                        "S": "2015-09-15T19:58:22.947Z"
+                    },
+                    "Amount": {
+                        "N": "2"
+                    },
+                    "Key": {
+                        "S": "8l7jkh6lkjhl"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "Id": {
+                        "S": "Red Maps#R101#C853"
+                    },
+                    "PurchaseDateTime": {
+                        "S": "2015-09-15T19:58:22.947Z"
+                    },
+                    "Amount": {
+                        "N": "5"
+                    },
+                    "Key": {
+                        "S": "76lh3lkj4623jllkh"
+                    }
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,76 @@
+{
+    "Rating": [
+        {
+            "PutRequest": {
+                "Item": {
+                    "AdId": {
+                        "S": "Red Maps#R101"
+                    },
+                    "RatingDateTime": {
+                        "S": "2015-09-15T19:58:22.947Z"
+                    },
+                    "Rating": {
+                        "N": "3.5"
+                    },
+                    "PostedBy": {
+                        "S": "C123"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "Id": {
+                        "S": "Babysitterz#B101"
+                    },
+                    "RatingDateTime": {
+                        "S": "2015-09-15T19:58:22.947Z"
+                    },
+                    "Rating": {
+                        "N": "2.5"
+                    },
+                    "PostedBy": {
+                        "S": "C432"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "Id": {
+                        "S": "Babysitterz#B101"
+                    },
+                    "RatingDateTime": {
+                        "S": "2015-09-15T19:58:22.947Z"
+                    },
+                    "Rating": {
+                        "N": "5"
+                    },
+                    "PostedBy": {
+                        "S": "C643"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "Id": {
+                        "S": "Red Maps#R101"
+                    },
+                    "RatingDateTime": {
+                        "S": "2015-09-15T19:58:22.947Z"
+                    },
+                    "Rating": {
+                        "N": "1"
+                    },
+                    "PostedBy": {
+                        "S": "C853"
+                    }
+                }
+            }
+        }
+    ]
+}

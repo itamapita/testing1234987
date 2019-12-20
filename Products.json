@@ -1,0 +1,76 @@
+{
+    "Rating": [
+        {
+            "PutRequest": {
+                "Item": {
+                    "Id": {
+                        "S": "Red Maps#R101"
+                    },
+                    "Product": {
+                        "L": "Oudekerksplein 28, 1012 GZ Amsterdam, Netherlands"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "Id": {
+                        "S": "Babysitterz#B101"
+                    },
+                    "LikedBy": {
+                        "P": "+9725497838295"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "Id": {
+                        "S": "Babysitterz#B102"
+                    },
+                    "LikedBy": {
+                        "P": "+9725497863395"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "Id": {
+                        "S": "Red Maps#R102"
+                    },
+                    "LikedBy": {
+                        "L": "Wijde Kerksteeg 16, 1012 GW Amsterdam, Netherlands"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "Id": {
+                        "S": "Red Maps#R103"
+                    },
+                    "LikedBy": {
+                        "L": "Wijde Kerksteeg 16, 1012 GW Amsterdam, Netherlands"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "Id": {
+                        "S": "Babysitterz#B103"
+                    },
+                    "LikedBy": {
+                        "P": "+9725497863255"
+                    }
+                }
+            }
+        }
+    ]
+}
