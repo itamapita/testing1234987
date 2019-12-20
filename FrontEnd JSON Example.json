@@ -19,7 +19,7 @@
                         "N": "3.5"
                     },
                     "Preferences": {
-                        "S": "F"
+                        "S": "female"
                     }
             }
         }
@@ -43,7 +43,7 @@
                         "N": "1.7"
                     },
                     "Preferences": {
-                        "S": "C"
+                        "S": "couple"
                     }
             }
         }
@@ -67,7 +67,7 @@
                         "N": "5"
                     },
                     "Preferences": {
-                        "S": "C"
+                        "S": "male"
                     }
             }
         }
